@@ -1,2 +1,2 @@
 # example-repo
-this is just example repository to test some codes implementation
+this is just an example repository to test some codes implementation
